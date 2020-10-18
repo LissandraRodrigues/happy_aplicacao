@@ -68,8 +68,6 @@ export default function CreateOrphanage() {
 
     const data = new FormData();
 
-    console.log(latitude, longitude, name, instructions, opening_hours, open_on_weekends, about, images)
-
     data.append('name', name);
     data.append('about', about);
     data.append('latitude', String(latitude));
@@ -85,8 +83,6 @@ export default function CreateOrphanage() {
     })
 
     await api.post('orphanages', data);
-
-    alert("casdatro");
 
     history.push('/app');
 
