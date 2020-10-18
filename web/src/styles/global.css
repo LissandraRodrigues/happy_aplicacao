@@ -1,0 +1,22 @@
+* {
+
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+
+body {
+
+    color: #FFF;
+    background-color: #ebf2f5;
+
+}
+
+body, input, button, textarea {
+
+    /* Peso, tamanho, fonte e se não tiver a Nunito, usar qualquer uma sem serifa. */
+    font: 600 18px Nunito, sans-serif;
+
+
+}
