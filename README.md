@@ -119,6 +119,8 @@ Para testar em seu dispositivo físico a versão Mobile, basta baixar o aplicati
 
 - [X] Fazer com que ao clicar na Logo, o usuário volte à página inicial;
 
+- [X] Colocar ícone na aba das páginas;
+
 - [ ] Funcionamento do botão de entrar em contato;
 	- [ ] Campo de entrada do número do contato no formulário;
 	- [ ] Armazenamento do contato no banco de dados; 
