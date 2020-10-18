@@ -75,17 +75,39 @@ Antes de executar :checkered_flag:, você precisar ter o [Git](https://git-scm.c
 # Clone este projeto
 $ git clone https://github.com/LissandraRodrigues/read-teste
 
-# Acesse a pasta do projeto
-$ cd happy-aplicacao-nlw
+- Backend
+
+# Entre pasta backend 
+$ cd backend
 
 # Instale as dependências
 $ yarn install
 
-# Execute o projeto 
+# Inicialize 
+$ yarn dev
+
+- Web
+
+# Abra outra aba do terminal e entre na pasta web
+$ cd web
+
+# Instale as dependências
+$ yarn install
+
+# Inicialize 
 $ yarn start
 
 # O servidor irá iniciar em http://localhost:3000
+
+- Mobile
+
+# Para executar a versão mobile, basta fazer o mesmo procedimento acima da versão web, trocando a palavra "web" por "mobile".
 ```
+
+Para testar em seu dispositivo físico a versão Mobile, basta baixar o aplicativo Expo e scannear o QR Code gerado no terminal:
+
+- <a href = "https://play.google.com/store/apps/details?id=host.exp.exponent&hl=pt_BR" > Google Play </a>
+- <a href = "https://apps.apple.com/br/app/expo-client/id982107779"> Apple Store </a>
 
 </div>
 
@@ -98,7 +120,15 @@ $ yarn start
 	- [ ] Armazenamento do contato no banco de dados; 
 	- [ ] Exibição do contato no detalhe do orfanato.
 	
-- [ ] Botão de excluir as imagens no formulário de criação do orfanato. 
+- [ ] Botão de excluir as imagens no formulário de criação do orfanato;
+
+- [ ] <a href = "https://blog.rocketseat.com.br/react-native-shimmer/"> Efeito Shimmer </a> enquanto as páginas/telas estão carregando;
+
+- [ ] Página inicial na versão Mobile;
+
+- [ ] Pop-up de sucesso no cadastro do Orfanato;
+
+- [ ] Pop-up de erro no cadastro do Orfanato. 
 
 </div>
 
@@ -107,6 +137,7 @@ $ yarn start
 ## :running: O que preciso estudar mais ##
 
 - [ ] Typescript;
+- [ ] Expo;
 - [ ] SQLite3;
 - [ ] Express;
 - [ ] Cross-Origin Resource Sharing (CORS);
