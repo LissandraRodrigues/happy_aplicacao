@@ -26,7 +26,12 @@
 <p align = "center">
 
  Happy tem como objetivo conectar pessoas a orfanatos, trazendo felicidade para crianças de todo o Rio de Janeiro. Aplicação web desenvolvida durante a Next Level Week #3 promovida pela <a href = "https://rocketseat.com.br/"> Rocketseat. </a>
+ 
 </p>
+
+<p> Para ver o vídeo de demonstração da aplicação, <a href = "https://www.youtube.com/watch?v=zUq-Ar__8-E&feature=youtu.be">clique aqui.</a>
+
+<hr>
 
 <img src = "https://github.com/LissandraRodrigues/happy_aplicacao/blob/main/happy-home.png" alt = "Happy" />
 
@@ -117,6 +122,8 @@ Para testar em seu dispositivo físico a versão Mobile, basta baixar o aplicati
 
 ## :bulb: Roadmap ##
 
+- [X] Página de sucesso no cadastro do Orfanato;
+
 - [X] Fazer alterações no layout da aplicação para ela se tornar mais "a minha cara";
 
 - [X] Fazer com que ao clicar na Logo, o usuário volte à página inicial;
@@ -133,8 +140,6 @@ Para testar em seu dispositivo físico a versão Mobile, basta baixar o aplicati
 - [ ] <a href = "https://blog.rocketseat.com.br/react-native-shimmer/"> Efeito Shimmer </a> enquanto as páginas/telas estão carregando;
 
 - [ ] Página inicial na versão Mobile;
-
-- [ ] Pop-up de sucesso no cadastro do Orfanato;
 
 - [ ] Pop-up de erro no cadastro do Orfanato. 
 
