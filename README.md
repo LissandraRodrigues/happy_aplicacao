@@ -28,6 +28,8 @@
  Happy tem como objetivo conectar pessoas a orfanatos, trazendo felicidade para crianças de todo o Rio de Janeiro. Aplicação web desenvolvida durante a Next Level Week #3 promovida pela <a href = "https://rocketseat.com.br/"> Rocketseat. </a>
 </p>
 
+<img src = "https://github.com/LissandraRodrigues/happy_aplicacao/blob/main/happy-home.png" alt = "Happy" />
+
 </div>
 
 <div id = "caracteristicas"> 
@@ -118,6 +120,8 @@ Para testar em seu dispositivo físico a versão Mobile, basta baixar o aplicati
 - [X] Fazer alterações no layout da aplicação para ela se tornar mais "a minha cara";
 
 - [X] Fazer com que ao clicar na Logo, o usuário volte à página inicial;
+
+- [X] Colocar ícone na aba das páginas;
 
 - [ ] Funcionamento do botão de entrar em contato;
 	- [ ] Campo de entrada do número do contato no formulário;
