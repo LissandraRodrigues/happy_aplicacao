@@ -30,7 +30,7 @@ export default function Header({ title, showCancel = true }: HeaderProps) {
 
             <BorderlessButton onPress = {navigation.goBack}>
 
-                <Feather name = "arrow-left" size = {24} color = "#15b6d6" />
+                <Feather name = "arrow-left" size = {24} color = "#8E6DE5" />
 
             </BorderlessButton>
 

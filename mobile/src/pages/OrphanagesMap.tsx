@@ -146,7 +146,7 @@ const styles = StyleSheet.create({
   
     calloutText: {
   
-      color: '#0089a5',
+      color: '#8E6DE5',
       fontSize: 14,
       fontFamily: 'Nunito_700Bold',
   
@@ -174,7 +174,7 @@ const styles = StyleSheet.create({
   
     footerText: {
   
-      color: '#8fa7b3',
+      color: '#8E6DE5',
       fontFamily: 'Nunito_700Bold',
   
     },
@@ -184,7 +184,7 @@ const styles = StyleSheet.create({
       width: 56,
       height: 56,
   
-      backgroundColor: '#15c3d6',
+      backgroundColor: '#8E6DE5',
       borderRadius: 20,
   
       alignItems: 'center',

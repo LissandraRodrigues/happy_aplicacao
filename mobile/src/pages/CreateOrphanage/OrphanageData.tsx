@@ -5,7 +5,6 @@ import { RectButton } from 'react-native-gesture-handler';
 import { useNavigation, useRoute } from '@react-navigation/native';
 
 import * as ImagePicker from 'expo-image-picker';
-import { latLng } from 'leaflet';
 import api from '../../services/api';
 
 interface OrphanageDataRouteParams {
@@ -255,7 +254,7 @@ const styles = StyleSheet.create({
   },
 
   nextButton: {
-    backgroundColor: '#15c3d6',
+    backgroundColor: '#8E6DE5',
     borderRadius: 20,
     justifyContent: 'center',
     alignItems: 'center',
