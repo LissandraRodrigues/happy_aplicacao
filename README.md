@@ -115,6 +115,10 @@ Para testar em seu dispositivo físico a versão Mobile, basta baixar o aplicati
 
 ## :bulb: Roadmap ##
 
+- [X] Fazer alterações no layout da aplicação para ela se tornar mais "a minha cara";
+
+- [X] Fazer com que ao clicar na Logo, o usuário volte à página inicial;
+
 - [ ] Funcionamento do botão de entrar em contato;
 	- [ ] Campo de entrada do número do contato no formulário;
 	- [ ] Armazenamento do contato no banco de dados; 
