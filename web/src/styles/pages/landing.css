@@ -3,7 +3,7 @@
     width: 100vw;
     height: 100vh;
 
-    background: linear-gradient(329.54deg, #29B6D1 0%, #00C7C7 100%);
+    background: linear-gradient(329.54deg, #8E6DE5 0%, #9066FF 100%);
 
     display: flex;
 
@@ -114,6 +114,6 @@
 
 #page-landing .content-wrapper .enter-app:hover {
 
-    background: #96FEFF;
+    background: #FCE9B7;
 
 }

@@ -40,7 +40,11 @@ function OrphanagesMap() {
 
                 <header>
 
-                    <img src = { mapMarkerImg } alt = "Happy" /> 
+                    <Link to = {'/'}>
+
+                        <img src = { mapMarkerImg } alt = "Happy" /> 
+
+                    </Link>
 
                     <h2> Escolha um orfanato no mapa </h2>
 
