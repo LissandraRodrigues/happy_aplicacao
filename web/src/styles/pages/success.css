@@ -1,0 +1,87 @@
+#page-success {
+
+    width: 100vw;
+    height: 100vh;
+
+    background: linear-gradient(329.54deg, #8E6DE5 0%, #9066FF 100%);
+
+    display: flex;
+
+    flex-direction: row;
+
+    align-items: center;
+    justify-content: center;
+
+}
+
+.logo {
+
+    padding-bottom: 100px;
+
+}
+
+.success-text {
+
+    font-size: 76px;
+    font-weight: 900;
+    line-height: 70px;
+
+    padding-bottom: 60px;
+
+}
+
+.texts {
+
+    padding-bottom: 250px;
+
+    display: flex;
+
+    flex-direction: column;
+    align-items: flex-start;
+
+}
+
+.image-success {
+
+    padding-left: 300px;
+
+}
+
+.text-side {
+
+    align-items: flex-start;
+
+    display: flex;
+    flex-direction: column;
+
+    height: 70%;
+
+    justify-content: space-between;
+
+}
+
+.backMap {
+
+    color: white;
+
+    background-color: #B5A0EE;
+
+    border-radius: 20px;
+
+    padding: 25px;
+
+    box-shadow: 8px 8px 4px #7050C4;
+
+}
+
+.backMapLink {
+
+    display: flex;
+
+    align-items: center;
+
+    justify-content: center;
+
+    text-decoration: none;
+
+}

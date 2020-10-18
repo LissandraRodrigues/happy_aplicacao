@@ -82,7 +82,7 @@ export default function CreateOrphanage() {
 
     await api.post('orphanages', data);
 
-    history.push('/app');
+    history.push('/success');
 
   }
 
@@ -218,10 +218,13 @@ export default function CreateOrphanage() {
               </div>
             </div>
           </fieldset>
-
+          
+          
           <button className="confirm-button" type="submit">
             Confirmar
           </button>
+          
+
         </form>
       </main>
     </div>
