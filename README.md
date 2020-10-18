@@ -122,6 +122,8 @@ Para testar em seu dispositivo físico a versão Mobile, basta baixar o aplicati
 
 ## :bulb: Roadmap ##
 
+- [X] Página de sucesso no cadastro do Orfanato;
+
 - [X] Fazer alterações no layout da aplicação para ela se tornar mais "a minha cara";
 
 - [X] Fazer com que ao clicar na Logo, o usuário volte à página inicial;
@@ -138,8 +140,6 @@ Para testar em seu dispositivo físico a versão Mobile, basta baixar o aplicati
 - [ ] <a href = "https://blog.rocketseat.com.br/react-native-shimmer/"> Efeito Shimmer </a> enquanto as páginas/telas estão carregando;
 
 - [ ] Página inicial na versão Mobile;
-
-- [ ] Pop-up de sucesso no cadastro do Orfanato;
 
 - [ ] Pop-up de erro no cadastro do Orfanato. 
 
