@@ -31,7 +31,7 @@
 
 <p> Para ver o vídeo de demonstração da aplicação, <a href = "https://www.youtube.com/watch?v=zUq-Ar__8-E&feature=youtu.be">clique aqui.</a>
 
-<br>
+<hr>
 
 <img src = "https://github.com/LissandraRodrigues/happy_aplicacao/blob/main/happy-home.png" alt = "Happy" />
 
