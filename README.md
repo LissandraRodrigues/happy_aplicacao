@@ -33,7 +33,7 @@
 
 <hr>
 
-<img src = "https://github.com/LissandraRodrigues/happy_aplicacao/blob/main/happy-home.png" alt = "Happy" />
+<img src = "https://github.com/LissandraRodrigues/happy_aplicacao/blob/main/happy-home.jpg" alt = "Happy" />
 
 </div>
 
